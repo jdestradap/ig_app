@@ -3,6 +3,7 @@ class CreateOrders < ActiveRecord::Migration
     create_table :orders do |t|
       t.float :total
       t.string :description
+      t.integer :user_id
 
       t.timestamps
     end
