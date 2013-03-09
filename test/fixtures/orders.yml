@@ -1,9 +1,0 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
-one:
-  total: 1.5
-  description: MyString
-
-two:
-  total: 1.5
-  description: MyString
